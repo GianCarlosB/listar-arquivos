@@ -1,0 +1,6 @@
+# Planilhas geradas pelo listar_arquivos.ps1 e relatórios das análises: contêm nomes de arquivos pessoais.
+# O .gitkeep só mantém as pastas no repositório.
+inventarios/*
+!inventarios/.gitkeep
+relatorios/*
+!relatorios/.gitkeep
